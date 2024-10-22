@@ -15,6 +15,8 @@ total_cost = calculate(age, tickets)
 print(f"The total cost for {tickets} tickets is: Rs.{total_cost}")
 
 """
+problem 1:
+
 The person is booking the railway ticket based on their age and the number of tickets they want to purchase.The 
 prices are regular price : rs.50, senior citizen (Age 60 and above) price : rs.30 and for the children 
 age 12 and below price is :rs.20.Find out total cost based on the their age and the number of tickets and display it.
